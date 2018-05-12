@@ -29,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/136
     wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
 description: Translation of Voskresenie.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13259#Yl-snousemus-III
 gutenberg_issued: '2004-08-23'
 gutenberg_type: Text
 identifiers:
